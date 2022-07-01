@@ -1,0 +1,6 @@
+module Pods_NumberApp {
+  umbrella header "Pods-NumberApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
